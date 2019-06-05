@@ -1,9 +1,10 @@
-#### Materialize CSS Lesson 4 :art:
-- Text Alignment
-  - `center-align`
-  - `left-align`
-  - `right-align`
-- Vertical Alignment
-  - `valign-wrapper`
-- Text Truncating
-  - `truncate`
+#### Materialize CSS Lesson 7 :art:
+
+- Buttons :computer_mouse:
+  - `btn`
+  - `btn-small`
+  - `btn-large`
+  - `btn-floating`
+  - `waves-effect`
+  - `waves-light`
+  - `pulse`
