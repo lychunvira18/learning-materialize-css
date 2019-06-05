@@ -1,10 +1,4 @@
-#### Materialize CSS Lesson 7 :art:
+#### Materialize CSS Lesson 8:art:
 
-- Buttons :computer_mouse:
-  - `btn`
-  - `btn-small`
-  - `btn-large`
-  - `btn-floating`
-  - `waves-effect`
-  - `waves-light`
-  - `pulse`
+- **Icons** can be used individually and with both normal and floating buttons
+  - `material-icons` 
