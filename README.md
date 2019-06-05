@@ -1,4 +1,4 @@
-#### Materialize CSS Lesson 4 :art:
+#### Materialize CSS Lesson 6 :art:
 - Text Alignment
   - `center-align`
   - `left-align`
