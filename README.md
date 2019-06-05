@@ -1,2 +1,3 @@
-#### Materialize CSS Lesson 2 :art:
-- Setting up `Materialize CSS` using CDN
+#### Materialize CSS Lesson 3 :art:
+- Default styles of elements in HTML using `Materialize CSS`
+- `flow-text` class for `<p>` tag
