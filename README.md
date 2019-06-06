@@ -1,7 +1,6 @@
-#### Materialize CSS Lesson 21 :art:
+#### Materialize CSS Lesson 22 :art:
 
 - **Progress**
-    - Learned how to create **forms** 
-    - `input-field` used to specify container for your inputs
-    - `materialize-textarea` to make materialize textarea (lmao)
+    - `datepicker` to make the text input turn into a datepicker
+    - Learned how to create a `checkbox` in *Materialize*
 
