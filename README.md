@@ -1,5 +1,7 @@
-#### Materialize CSS Lesson 20 :art:
+#### Materialize CSS Lesson 21 :art:
 
 - **Progress**
-    - Learned how to create **tabs** 
-    - `tabs` used to specify container for `tab`
+    - Learned how to create **forms** 
+    - `input-field` used to specify container for your inputs
+    - `materialize-textarea` to make materialize textarea (lmao)
+
