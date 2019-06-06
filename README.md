@@ -1,9 +1,10 @@
-#### Materialize CSS Lesson 13 :art:
+#### Materialize CSS Lesson 14 :art:
 
-- **Cards**
-  - `card` for specifying the `div` as a card
-  - `card-image` for specifying the `div` in the `card` for adding an image
-  - `card-content` for specifying the `div` for content
-  - `card-title` for specifying the title of the card
-  - `card-action` for specifying the action section (Share, More...etc)
-  - `halfway-fab` for making a button halfway between the `content` and the `picture`
+- **Collections**
+  - `collection` for specifying the `div` as a container containing a collection
+  - `collection-item` for specifying an item in the collection
+  - `with-header` to specify that the collection has a header
+  - `collection-header` to make the item the collection header
+  - `avatar` to specify that the collection item is an avatar for better formatting
+  - `secondary-content` to specify that content is secondary
+  
