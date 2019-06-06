@@ -1,6 +1,6 @@
-#### Materialize CSS Lesson 22 :art:
+#### Materialize CSS Lesson 23 :art:
 
 - **Progress**
-    - `datepicker` to make the text input turn into a datepicker
-    - Learned how to create a `checkbox` in *Materialize*
+    - `page-footer` used to specify that the container is the footer
+    - `footer-copyright` used to make the bottom copyright section of the webpage
 
