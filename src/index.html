@@ -46,9 +46,9 @@
                     <i class="material-icons">menu</i>
                 </a>
                 <ul class="right hide-on-med-and-down">
-                    <li><a href="#">Photos</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="#photos">Photos</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#contact">Contact</a></li>
                     <li><a href="#" class="btn-floating btn-small indigo darken-4 tooltipped" data-tooltip="Instagram">
                             <i class="fab fa-instagram"></i>
                         </a></li>
@@ -69,7 +69,7 @@
         </nav>
     </header>
     <!-- photo / grid -->
-    <section class="container section" id="photos">
+    <section class="container section scrollspy" id="photos">
         <div class="row">
             <div class="col s12 l4">
                 <img src="../img/portrait.jpg" alt="" class="responsive-img materialboxed">
@@ -111,7 +111,7 @@
         </div>
     </div>
     <!-- services / tabs -->
-    <section class="container section" id="services">
+    <section class="container section scrollspy" id="services">
         <div class="row">
             <div class="col s12 l4">
                 <h2 class="indigo-text text-darken-4">What I do...</h2>
@@ -154,7 +154,7 @@
         </div>
     </div>
     <!-- contact form -->
-    <section class="container section" id="contact">
+    <section class="container section scrollspy" id="contact">
         <div class="row">
             <div class="col s12 l5">
                 <h2 class="indigo-text text-darken-4">Get In Touch</h2>
@@ -249,6 +249,7 @@
                 disableWeekends: true
             });
             $('.tooltipped').tooltip();
+            $('.scrollspy').scrollSpy();
         });
     </script>
 </body>
