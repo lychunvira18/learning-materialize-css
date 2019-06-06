@@ -1,3 +1,5 @@
-#### Materialize CSS Lesson 16 :art:
+#### Materialize CSS Lesson 17 :art:
 
-- Setting up for *portfolio* project
+- **Progress**
+    - Added a `header` with the background with styles for different screen sizes
+    - Added a `navbar` for both mobile and desktop
