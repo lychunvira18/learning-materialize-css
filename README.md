@@ -1,10 +1,8 @@
-#### Materialize CSS Lesson 14 :art:
+#### Materialize CSS Lesson 15 :art:
 
-- **Collections**
-  - `collection` for specifying the `div` as a container containing a collection
-  - `collection-item` for specifying an item in the collection
-  - `with-header` to specify that the collection has a header
-  - `collection-header` to make the item the collection header
-  - `avatar` to specify that the collection item is an avatar for better formatting
-  - `secondary-content` to specify that content is secondary
-  
+- **Modals**
+  - `modal` for specifying the modal that is going to pop up
+  - `modal-trigger` for making the button trigger the modal to pop up
+  - `modal-content` for specifying the contents of the modal
+  - `modal-footer` for specifying the footer of the modal
+  - `modal-close` for making the button trigger the modal to close upon click
