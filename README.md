@@ -1,6 +1,5 @@
-#### Materialize CSS Lesson 19 :art:
+#### Materialize CSS Lesson 20 :art:
 
 - **Progress**
-    - Learned how to create **parallaxes** (and it's DOPE!)
-    - Using `parallax-container` class to set a `div` as a container
-    - `parallax` to set div as the div for the parallax
+    - Learned how to create **tabs** 
+    - `tabs` used to specify container for `tab`

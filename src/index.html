@@ -102,38 +102,42 @@
         </div>
     </div>
     <!-- services / tabs -->
-    <div class="container">
-        <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit deleniti, vel labore debitis atque
-            veniam minima ea laboriosam. Accusamus itaque, quae ab pariatur nobis blanditiis eaque illo id ipsam
-            asperiores.
-        </p>
-        <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit deleniti, vel labore debitis atque
-            veniam minima ea laboriosam. Accusamus itaque, quae ab pariatur nobis blanditiis eaque illo id ipsam
-            asperiores.
-        </p>
-        <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit deleniti, vel labore debitis atque
-            veniam minima ea laboriosam. Accusamus itaque, quae ab pariatur nobis blanditiis eaque illo id ipsam
-            asperiores.
-        </p>
-        <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit deleniti, vel labore debitis atque
-            veniam minima ea laboriosam. Accusamus itaque, quae ab pariatur nobis blanditiis eaque illo id ipsam
-            asperiores.
-        </p>
-        <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit deleniti, vel labore debitis atque
-            veniam minima ea laboriosam. Accusamus itaque, quae ab pariatur nobis blanditiis eaque illo id ipsam
-            asperiores.
-        </p>
-        <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit deleniti, vel labore debitis atque
-            veniam minima ea laboriosam. Accusamus itaque, quae ab pariatur nobis blanditiis eaque illo id ipsam
-            asperiores.
-        </p>
-    </div>
+    <section class="container section" id="services">
+        <div class="row">
+            <div class="col s12 l4">
+                <h2 class="indigo-text text-darken-4">What I do...</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere eum libero provident? Aut possimus
+                    ipsum cum assumenda saepe ut ullam commodi praesentium dolor at et quas sequi, soluta quaerat eos!
+                </p>
+            </div>
+            <div class="col s12 l6 offset-l2">
+                <ul class="tabs">
+                    <li class="tab col s6">
+                        <a href="#photography" class="indigo-text text-darken-4">
+                            Photography
+                        </a>
+                    <li class="tab col s6">
+                        <a href="#editing" class="indigo-text text-darken-4">
+                            Editing
+                        </a>
+                    </li>
+                    </li>
+                </ul>
+                <div class="col s12" id="photography">
+                    <p class="flow-text indigo-text text-darken-4">PHOTOGRAPHY</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cum soluta asperiores quis
+                        maxime tempora, accusamus voluptatibus cupiditate incidunt placeat. Ducimus dolorum voluptatibus
+                        quam optio culpa eligendi excepturi quos saepe.</p>
+                </div>
+                <div class="col s12" id="editing">
+                    <p class="flow-text indigo-text text-darken-4">EDITING</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cum soluta asperiores quis
+                        maxime tempora, accusamus voluptatibus cupiditate incidunt placeat. Ducimus dolorum voluptatibus
+                        quam optio culpa eligendi excepturi quos saepe.</p>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- parallax -->
     <div class="parallax-container">
         <div class="parallax">
@@ -183,6 +187,7 @@
             $('.sidenav').sidenav();
             $('.materialboxed').materialbox();
             $('.parallax').parallax();
+            $('.tabs').tabs();
         });
     </script>
 </body>
