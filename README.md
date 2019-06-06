@@ -1,8 +1,5 @@
-#### Materialize CSS Lesson 11 :art:
+#### Materialize CSS Lesson 12 :art:
 
-- **Navbars (destop & mobile)**
-  - `nav-wrapper` for wrapping the navbar elements
-  - `brand-logo` for adding the brand logo for navbars
-  - `right` and `left` to float the elements to the right / left respectively
-  - `sidenav` for adding a sidenav when the screen sizes get smaller
-  -  Using `javascript` to enable and make sidebars
+- **Badges**
+  - `badge` for creating a badge
+  - `new` for adding "new" in the badge
